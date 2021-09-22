@@ -1,0 +1,84 @@
+
+Django REST Framework
+=====================
+
+1. What is an API?
+
+2. What is REST?
+
+3. What is DRF?
+
+4. What is Web Services?
+
+5. What is REST API?
+
+6. What is Serialization and Deserialization?
+
+7. Why do we create serializer.py file?
+
+8. What are the different types of views?
+
+9. What is the difference between function based and class based views?
+
+10. What is generic views?
+
+
+11. What are the handler methods? Use of it?
+
+12. What are the action methods? Use of it?
+
+13. What is a viewset? and types of viewsets?
+
+14. What is a Authentication and Autherization?
+
+15. What is Restful web servies?
+
+16. What is Pagination ?
+
+17. Why we should go for Pagination ?
+
+18. Types of Pagination ?
+
+19. What is Nested Serilization ?
+
+20. Why we should go for Nested Serilizers Concept ?
+
+21. How two different kind of aplications communicate to each other.?
+
+22. What is difference between dumps() and loads() methods?
+
+23.What is difference between HttpResponse() and JsonResponse() methods?
+
+24.What is MIME type attribute  and what is mime type value for Json.?
+
+25. What is BasicAuthentication.?
+
+26. What is SessionAuthentication.?
+
+27.What is TokenAuthentication.?
+
+28. How to get the token value from db?
+
+29. Which type of request we need to send for getting token value ?
+
+30. Which predefined view is responsible to get token value?
+
+31. What is JWT Authentication?
+
+32. What is Postman?
+
+33. What is the use of Postman?
+
+34. What is Swagger ? How to use it?
+
+35. How to make Application to Application communication?
+
+36. How to make Application to Application communication using presentation?
+
+37. Differences between JSON  and  XML ?
+
+38. Differences between HTML and XML ?
+
+39. What is the use of authenticate(), login(), logout() ?
+
+40. How to handle or customizing  the admin site ?
